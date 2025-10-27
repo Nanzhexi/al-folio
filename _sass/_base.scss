@@ -444,13 +444,13 @@ ul.task-list input[type="checkbox"] {
 // Social icons in profile (smaller size)
 .profile {
   .social {
-    text-align: center;
+    text-align: left;
     margin-top: 0.5rem;
 
     .contact-icons {
       font-size: 2rem;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       gap: 0.5rem;
 
       a {
